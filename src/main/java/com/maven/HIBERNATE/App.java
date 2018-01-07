@@ -7,7 +7,7 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 
 // first change from git
-
+// 1st update from github
 /**
  * Hello world!
  *
