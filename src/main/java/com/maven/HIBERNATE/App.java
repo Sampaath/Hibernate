@@ -8,6 +8,9 @@ import org.hibernate.service.ServiceRegistry;
 
 // first change from git
 // 1st update from github
+
+/* How do I send updates to Dev branch from local ? Push to dev instead to master ?*/
+
 /**
  * Hello world!
  *
