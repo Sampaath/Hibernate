@@ -6,7 +6,7 @@ import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 
-
+// first change from git
 
 /**
  * Hello world!
